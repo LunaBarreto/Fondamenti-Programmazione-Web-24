@@ -16,7 +16,7 @@
 
 body{
     font-family: "TakeOff_light"; 
-    font-size: 30px;
+    font-size: 20px;
     background-color: var(--nero);
     color:var(--bianco);
     margin: 30px;
@@ -60,10 +60,9 @@ img {
     border: 1px solid var(--bianco);
     border-radius: 30px;
     text-align: center;
-    padding: 30px, 0;
+    padding: 10px;
     color: var(--bianco);
     width: 100%;
-    padding: 20px;
     text-decoration: none;
 }
 
